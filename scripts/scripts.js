@@ -19,8 +19,8 @@ const isDead = health => {
 }; //return true is health is less than or equal to zero.
 
 function fight() {
-  const player1 = "Caption America"; //named player one
-  const player2 = "Ironman"; //named player two
+  const player1 = "Captain America"; //named player one
+  const player2 = "Iron Man"; //named player two
   let player1Health = 100; //set both player's health to starting point of 100
   let player2Health = 100;
   while (true) {
